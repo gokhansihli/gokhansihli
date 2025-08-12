@@ -8,7 +8,7 @@ I am a Junior Software Developer with a passion for technology.
 🛠️ Technical Skills
 Here are some of the tools and technologies I'm working with:  
 Languages: JavaScript (ES6+), HTML5, CSS3,  
-Frameworks/Libraries: Node.js, Jest. 
+Frameworks/Libraries: Node.js, Jest.  
 Tools & Platforms: Git, GitHub, VS Code, npm
 
 🔭 Learning & Future Goals  
