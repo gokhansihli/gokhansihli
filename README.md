@@ -12,7 +12,7 @@ Frameworks/Libraries: React, React Router, Node.js, Express.js, Jest, Supertest,
 Databases: PostgreSQL  
 Tools & Platforms: Git, GitHub, VS Code, npm, Vite, AWS (EC2)  
 Concepts: Object-Oriented Programming (OOP), Test-Driven Development (TDD), RESTful APIs, Agile
-Methodologies, Pair Programming, , MVC Architectural Pattern, Integration Testing, Cloud Deployment
+Methodologies, Pair Programming, MVC Architectural Pattern, Integration Testing, Cloud Deployment
 
 Learning & Future Goals  
 I am always looking to learn and grow. I'm excited about the future of technology. My focus is on solidifying my full-stack skills and applying them to real-world projects.
