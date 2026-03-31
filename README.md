@@ -1,4 +1,5 @@
 Hi there, I'm Gokhan Sihli 👋  
+
 I am a Junior Software Developer with a passion for technology. 
 
  Recently, I have completed Northcoders full-stack bootcamp.
